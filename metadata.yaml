@@ -1,0 +1,37 @@
+_repo: Ten-Years-Captivity-in-the-Mahdi-s-Camp-1882-1892_32875
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Wingate, F. R. (Francis Reginald), Sir
+    aliases:
+    - Wingate, Francis Reginald, Sir
+    - Wingate, Reginald, Sir
+    birthdate: 1861
+    deathdate: 1953
+    gutenberg_agent_id: '36087'
+    url: http://www.gutenberg.org/2009/agents/36087
+  - agent_name: Ohrwalder, Josef
+    alias: Ohrwalder, Joseph
+    birthdate: 1856
+    deathdate: 1913
+    gutenberg_agent_id: '32371'
+    url: http://www.gutenberg.org/2009/agents/32371
+description: ''
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32875'
+  lccn: '43030609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mahdi, Muhammad Ahmad, 1848-1885'
+- !lcc 'DT'
+- !lcsh 'Sudan -- History'
+title: Ten Years' Captivity in the Mahdi's Camp 1882-1892
+url: http://www.gutenberg.org/ebooks/32875
